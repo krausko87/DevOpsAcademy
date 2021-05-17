@@ -6,4 +6,5 @@ Das si?
 
 Jasne, ze chutila!!
 
-Taka fajna bola, cervenaaaa.
+
+Taka fajna JAHODY.
