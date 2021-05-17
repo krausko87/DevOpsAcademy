@@ -7,4 +7,4 @@ Das si?
 Jasne, ze chutila!!
 
 
-Taka fajna JAHODY.
+Taka fajna JAHODY/A.
