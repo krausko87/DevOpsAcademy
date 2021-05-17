@@ -6,5 +6,8 @@ Das si?
 
 Jasne, ze chutila!! Iba zeby ne!!!
 
+>>>>
+tu som ti robil update
+<<<<
 
 Taka fajna JAHODY/A.
