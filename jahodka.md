@@ -1,5 +1,7 @@
 # Taka fajna sladka
 
 Das si?
-* hej
-* ne
+* ano 
+* nie
+
+Jasne, ze chutila!!
