@@ -5,3 +5,5 @@ Das si?
 * nie
 
 Jasne, ze chutila!!
+
+Namem rad JAHODY.
