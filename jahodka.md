@@ -5,3 +5,5 @@ Das si?
 * nie
 
 Jasne, ze chutila!!
+
+Taka fajna bola, cervenaaaa.
