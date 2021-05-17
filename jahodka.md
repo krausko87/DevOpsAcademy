@@ -1,6 +1,6 @@
-# Taka fajna sladka
+# Taka fajna. sladka
 
-Das si?
+Das s.i?
 * ano  
 * nie.
 
@@ -10,4 +10,4 @@ Jasne, ze  chutila!! Iba zeby ne!!!
 tu som ti robil update
 <<<<
 
-Taka fa jna JAHODY/A.
+Taka fa jna JAHOD.Y/A.
