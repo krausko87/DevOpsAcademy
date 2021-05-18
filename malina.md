@@ -9,3 +9,5 @@ Taka ta *malina zelena* nie je nic dobre. Radsej:
 Enjoy :)
 
 **Update - malina znila, pozor na vela vody!**
+
+Update kvoli zmene na SSH kluc.
