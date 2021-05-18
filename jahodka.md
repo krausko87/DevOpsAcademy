@@ -5,3 +5,5 @@ Das s.i?
 * nie.
 
 Skusam **branches**
+
+skusam push dlhy
