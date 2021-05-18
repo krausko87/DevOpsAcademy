@@ -14,4 +14,4 @@ Ja zvedavy, co tu Pali porobil.
 
 Taka fa jna JAHOD.Y/A.
 
-Skuska pre gitignore.
+Skuska pre gitignore pokus cislo 2.
